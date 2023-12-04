@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "module": "commonjs", // or "esnext" for ES modules
+    // ...
+  }
+}
