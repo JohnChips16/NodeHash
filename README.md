@@ -3,9 +3,9 @@
 -[1.0.0]: Hashing, and compare.
 -[1.0.1]: updated wih C++/Shell
 -[Build] :
-•yarn, automatically configure & build with node-gyp (not maintained)
-•inside lib/libc++ | g++ -o my_program lib.hash.cpp lib_test.cpp -std=c++11(if haven't)
-•usage: see /test/module.test.js
+-yarn, automatically configure & build with node-gyp (not maintained)
+-inside lib/libc++ | g++ -o my_program lib.hash.cpp lib_test.cpp -std=c++11(if haven't)
+-usage: see /test/module.test.js
 
 
 
