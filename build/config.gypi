@@ -400,7 +400,21 @@
     "v8_use_siphash": 1,
     "want_separate_host_toolset": 1,
     "nodedir": "/data/data/com.termux/files/home/.cache/node-gyp/18.16.1",
-    "python": "/data/data/com.termux/files/usr/bin/python3",
-    "standalone_static_library": 1
+    "standalone_static_library": 1,
+    "version_commit_hooks": "true",
+    "user_agent": "yarn/1.22.19 npm/? node/v18.16.1 android arm64",
+    "bin_links": "true",
+    "init_version": "1.0.0",
+    "init_license": "MIT",
+    "version_tag_prefix": "v",
+    "registry": "https://registry.yarnpkg.com",
+    "ignore_scripts": "",
+    "version_git_message": "v%s",
+    "foreground_scripts": "true",
+    "version_git_tag": "true",
+    "version_git_sign": "",
+    "strict_ssl": "true",
+    "save_prefix": "^",
+    "ignore_optional": ""
   }
 }
